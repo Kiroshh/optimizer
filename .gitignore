@@ -2,3 +2,4 @@
 result.csv
 compiledSP/
 venv/
+*.pyc
